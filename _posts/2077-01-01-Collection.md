@@ -231,7 +231,7 @@ tags:
   <td>08/30/23</td>
 </tr>
 <tr>
-  <td>Lite-On CV8 128GB (2.5inch SATA3)</td>
+  <td>SK hynix SC311 128GB (2.5inch SATA3)</td>
   <td>08/28/23</td>
 </tr>
 <tr>
