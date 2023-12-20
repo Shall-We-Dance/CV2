@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Reseach Interests
+Research Interests
 ======
 Genomics (Functional, Computational), Epigenomics, Bioinformatics, Development and Application of Sequencing Techniques
 
