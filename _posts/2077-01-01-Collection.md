@@ -147,6 +147,10 @@ tags:
   <th>Date of Collection</th>
 </tr>
 <tr>
+  <td>NVIDIA GeForce GTX 780 (EVGA)</td>
+  <td>12/16/23</td>
+</tr>
+<tr>
   <td>NVIDIA Tesla P4</td>
   <td>08/08/23</td>
 </tr>
