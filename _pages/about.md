@@ -188,6 +188,7 @@ Technical Skills
 [![](https://img.shields.io/badge/SnapGene-5DB1D9?&style=for-the-badge&logoColor=white)]()
 [![](https://img.shields.io/badge/Benchling-020DAE?&style=for-the-badge&logoColor=white)]()
 [![](https://img.shields.io/badge/Zotero-CC2936?&style=for-the-badge&logo=zotero&logoColor=white)]()
+[![](https://img.shields.io/badge/iterm2-000000?&style=for-the-badge&logo=iterm2&logoColor=white)]()
 [![](https://img.shields.io/badge/Draw.io-F08705?&style=for-the-badge&logo=diagramsdotnet&logoColor=white)]()
 [![](https://img.shields.io/badge/MS%20Office-D83B01?&style=for-the-badge&logo=microsoftoffice&logoColor=white)]()
 [![](https://img.shields.io/badge/Netdata-4CA851?&style=for-the-badge&logoColor=white)]()
