@@ -85,6 +85,14 @@ Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=G
 <table>
 
 <tr>
+<td><img class="proj_thumb" src="images/publications/PNAS2024.png" width="350px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Phase separation of YAP- MAML2 differentially regulates the transcriptome </div>
+<div class="pub_author"> Chung, C., Yang, J., Yang X., <b>Liu, H.</b>, ... Shen, Y., Shu, X.#</div>
+<div class="pub_journal"><i><b>PNAS</b>, 2024</i> [<a href="https://doi.org/10.1073/pnas.2310430121">Paper</a>]
+</td>
+</tr>
+
+<tr>
 <td><img class="proj_thumb" src="images/publications/NChem2023.png" width="350px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Genetically encoded chemical crosslinking of RNA in vivo </div>
 <div class="pub_author"> Sun, W.*, Wang, N.*, <b>Liu, H.</b>, Yu, H., ... Shen, Y., Wang, L.#</div>
