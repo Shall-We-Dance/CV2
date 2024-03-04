@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 
-Research Interests
+About him
 ======
-Genomics (Functional, Computational), Epigenomics, Bioinformatics, Development and Application of Sequencing Techniques
+Hongjiang received his bachelor's degree with honors from Nankai University in 2023. He was a visiting scholar at UCSF and a research assistant at Tsinghua University.
+
+Hongjiang has been trained in both wet and dry labs. His research interests now mainly lie in genomics (functional, computational) and epigenomics.
 
 Education
 ------
