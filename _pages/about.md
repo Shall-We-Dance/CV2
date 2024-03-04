@@ -11,7 +11,7 @@ redirect_from:
 
 About him
 ======
-Hongjiang received his bachelor's degree with honors from Nankai University in 2023. He was a visiting scholar at UCSF and a research assistant at Tsinghua University.
+Hongjiang received his bachelor's degree with honors from Nankai in 2023. He was a visiting scholar at UCSF and a research assistant at Tsinghua.
 
 Hongjiang has been trained in both wet and dry labs. His research interests now mainly lie in genomics (functional, computational) and epigenomics.
 
