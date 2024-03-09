@@ -20,6 +20,18 @@ tags:
 </style>
 <p>Every hardware has its own unique narrative, as I find great satisfaction in collecting and preserving these stories. It is a testament to the evolution of technology and the countless innovations that shape our digital landscape.</p>
 
+<div class="subtitle"><b>- Caremas -</b></div>
+<table>
+<tr>
+  <th>Model</th>
+  <th>Date of Collection</th>
+</tr>
+<tr>
+  <td>Fuji Auto-8 QD</td>
+  <td>09/03/24</td>
+</tr>
+</table>
+
 <div class="subtitle"><b>- CPUs -</b></div>
 <table>
 <tr>
