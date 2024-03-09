@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-About him
+About Him
 ======
 Hongjiang received his bachelor's degree with honors from Nankai in 2023. He was a visiting scholar at UCSF and a research assistant at Tsinghua.
 
