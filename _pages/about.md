@@ -52,7 +52,7 @@ Experience
 <div class="media">
     <span class="pull-left"><img src="images/ucsf.png" width="75px" height="37.5px"/></span>
     <div class="media-body">
-        <div><span style="font-weight: bold">Visiting Student</span></div>
+        <div><span style="font-weight: bold">Visiting Scholar</span></div>
         <div>Institute for Human Genetics</div>
         <div>Advisor: Prof. <a href="https://shenlab.ucsf.edu" target="_blank">Yin Shen</a></div>
         <div>UCSF, 2021-2022</div>
