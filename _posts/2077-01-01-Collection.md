@@ -27,8 +27,12 @@ tags:
   <th>Date of Collection</th>
 </tr>
 <tr>
+  <td>Sony α7R IV</td>
+  <td>03/11/24</td>
+</tr>
+<tr>
   <td>Fuji Auto-8 QD</td>
-  <td>09/03/24</td>
+  <td>03/09/24</td>
 </tr>
 </table>
 
@@ -37,6 +41,10 @@ tags:
 <tr>
   <th>Model</th>
   <th>Date of Collection</th>
+</tr>
+<tr>
+  <td>Intel Xeon Gold 5120</td>
+  <td>03/13/24</td>
 </tr>
 <tr>
   <td>Intel Xeon Sliver 4110</td>
@@ -157,6 +165,10 @@ tags:
 <tr>
   <th>Model</th>
   <th>Date of Collection</th>
+</tr>
+<tr>
+  <td>NVIDIA GeForce GTX 460 (MSi, Cyclone OC)</td>
+  <td>03/13/24</td>
 </tr>
 <tr>
   <td>NVIDIA GeForce GTX 780 (EVGA)</td>
@@ -301,6 +313,10 @@ tags:
 <tr>
   <th>Model</th>
   <th>Date of Collection</th>
+</tr>
+<tr>
+  <td>Seagate Exos X16 16TB DELL EMC (3.5inch SATA3)</td>
+  <td>02/29/24</td>
 </tr>
 <tr>
   <td>WD Scorpio Blue 250GB (5.4k 2.5inch SATA2)</td>
