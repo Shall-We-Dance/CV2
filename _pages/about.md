@@ -39,7 +39,7 @@ Education
 <div class="media">
     <span class="pull-left"><img src="images/nku.png" width="75px" height="75px"/></span>
     <div class="media-body">
-        <div><span style="font-weight: bold">B.S. Biological Science (Poling Honors Degree)</span></div>
+        <div><span style="font-weight: bold">B.S. Biological Science (w/ Honors)</span></div>
         <div>Advisor: Prof. <a href="https://huanglab.cc" target="_blank">Xinglu Huang</a></div>
         <div>Nankai University, 2018-2023</div>
     </div>
