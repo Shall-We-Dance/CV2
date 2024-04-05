@@ -28,6 +28,14 @@ Education
 </style>
 
 <div class="media">
+    <span class="pull-left"><img src="images/cornell.svg" width="75px" height="75px"/></span>
+    <div class="media-body">
+        <div><span style="font-weight: bold">Ph.D. Student</span></div>
+        <div>Cornell University, 2024-2029</div>
+    </div>
+</div>
+
+<div class="media">
     <span class="pull-left"><img src="images/nku.png" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">B.S. Biological Science (Poling Honors Degree)</span></div>
