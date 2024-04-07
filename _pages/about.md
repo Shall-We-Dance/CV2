@@ -181,8 +181,6 @@ Technical Skills
 [![](https://img.shields.io/badge/Benchling-020DAE?&style=for-the-badge&logoColor=white)]()
 [![](https://img.shields.io/badge/Zotero-CC2936?&style=for-the-badge&logo=zotero&logoColor=white)]()
 [![](https://img.shields.io/badge/iterm2-000000?&style=for-the-badge&logo=iterm2&logoColor=white)]()
-[![](https://img.shields.io/badge/Draw.io-F08705?&style=for-the-badge&logo=diagramsdotnet&logoColor=white)]()
-[![](https://img.shields.io/badge/MS%20Office-D83B01?&style=for-the-badge&logo=microsoftoffice&logoColor=white)]()
 [![](https://img.shields.io/badge/Netdata-4CA851?&style=for-the-badge&logoColor=white)]()
 [![](https://img.shields.io/badge/Jellyfin-00A4DC?&style=for-the-badge&logo=Jellyfin&logoColor=white)]()
 [![](https://img.shields.io/badge/BioRender-3C6FB2?&style=for-the-badge&logoColor=white)]()
@@ -196,7 +194,6 @@ Technical Skills
 [![](https://img.shields.io/badge/Unraid-F15A2C?style=for-the-badge&logo=unraid&logoColor=white)]()
 [![](https://img.shields.io/badge/Synology-000000?style=for-the-badge&logo=synology&logoColor=white)]()
 [![](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)]()
-[![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
 
 ### Wet Lab
 
