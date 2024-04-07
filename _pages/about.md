@@ -151,7 +151,6 @@ Awards
  * Poling Honors Degree, Nankai University
  * Distinguished Undergraduate Thesis, Nankai University
  * Scholarship of Academic Progress, Nankai University
- * Third Prize in Innovative Scientific Research for Undergraduates of Nankai University
 
 Technical Skills
 ------
@@ -165,33 +164,7 @@ Technical Skills
 [![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
 [![](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)]()
-
 [![](https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black)]()
-[![](https://img.shields.io/badge/Seurat-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
-[![](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
-[![](https://img.shields.io/badge/dplyr-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
-[![](https://img.shields.io/badge/edgeR-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
-[![](https://img.shields.io/badge/clusterProfiler-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
-[![](https://img.shields.io/badge/pheatmap-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
-[![](https://img.shields.io/badge/UpSetR-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
-[![](https://img.shields.io/badge/caret-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
-[![](https://img.shields.io/badge/WGCNA-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
-[![](https://img.shields.io/badge/metaPlotR-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
-[![](https://img.shields.io/badge/alphafold2-2152CE?style=for-the-badge&logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/CRISPResso-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/pegLIT-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/MACS-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/deepTools-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/CLIPper-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/ViennaRNA-A8B9CC?style=for-the-badge&logo=c&logoColor=white)]()
-[![](https://img.shields.io/badge/STAR-A8B9CC?style=for-the-badge&logo=c&logoColor=white)]()
-[![](https://img.shields.io/badge/fastp-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)]()
-[![](https://img.shields.io/badge/Bedtools-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
-[![](https://img.shields.io/badge/Samtools-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
-[![](https://img.shields.io/badge/MEME-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
-[![](https://img.shields.io/badge/FIMO-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
-
-<a href="https://alphafold.lnsgroup.cc:5001" target="_blank">AlphaFold at LNS Group</a>
 
 ### Software
 
