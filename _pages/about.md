@@ -13,7 +13,7 @@ About Him
 ======
 Born and raised in Chengdu, Hongjiang received his bachelor's degree with honors from Nankai in 2023. He was a visiting scholar at UCSF and a research assistant at Tsinghua.
 
-Hongjiang has been trained in both wet and dry labs. His research interests now mainly lie in genomics (functional, computational) and epigenomics.
+His research interests now mainly lie in functional & computational genomics, as well as neurological disorders.
 
 Education
 ------
@@ -194,11 +194,6 @@ Technical Skills
 [![](https://img.shields.io/badge/Unraid-F15A2C?style=for-the-badge&logo=unraid&logoColor=white)]()
 [![](https://img.shields.io/badge/Synology-000000?style=for-the-badge&logo=synology&logoColor=white)]()
 [![](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)]()
-
-### Wet Lab
-
-Molecular Clone, Cell Culture, ATAC-seq, Smart-seq2, CUT&RUN, mRNA Display, Mutagenesis, CRISPR Knockout, CRISPR Knockin, CRISPR Screen, etc.
-
 
 <div style="text-align:center">
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5sgot2dxrbg&amp;m=0c&amp;c=ff0000&amp;cr1=ffffff&amp;f=calibri&amp;l=49&amp;s=200&amp;cw=ffffff&amp;cb=000000" async="async"></script>
