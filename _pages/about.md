@@ -148,6 +148,7 @@ Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=G
 Awards
 ------
 
+ * Ray Wu Graduate Award, MBG, Cornell University 
  * Poling Honors Degree, Nankai University
  * Distinguished Undergraduate Thesis, Nankai University
  * Scholarship of Academic Progress, Nankai University
