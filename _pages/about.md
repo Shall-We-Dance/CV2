@@ -96,6 +96,14 @@ Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=G
 <table>
 
 <tr>
+<td><img class="proj_thumb" src="images/publications/bioRxiv2022.png" width="350px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> MYC phase separation selectively modulates the transcriptome </div>
+<div class="pub_author"> Yang, J.*, Chung, C.*, Koach, J., <b>Liu, H.</b>, ... , Shu, X.# </div>
+<div class="pub_journal"><i><b>Nature Structural & Molecular Biology</b>, 2024</i> [<a href="https://doi.org/10.1038/s41594-024-01322-6">Paper</a>]</div>
+</td>
+</tr>
+
+<tr>
 <td><img class="proj_thumb" src="images/publications/PNAS2024.png" width="350px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Phase separation of YAP-MAML2 differentially regulates the transcriptome </div>
 <div class="pub_author"> Chung, C., Yang, J., Yang X., <b>Liu, H.</b>, ... Shen, Y., Shu, X.#</div>
@@ -116,14 +124,6 @@ Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=G
 <td><div class="pub_title"> Functional Characterization of Alzheimer’s Disease Genetic Variants in Microglia </div>
 <div class="pub_author"> Yang, X., Wen, J., Yang, H., Jones, I., ... , <b>Liu, H.</b>, ... & Shen, Y.# </div>
 <div class="pub_journal"><i><b>Nature Genetics</b>, 2023</i> [<a href="https://doi.org/10.1038/s41588-023-01506-8">Paper</a>]</div>
-</td>
-</tr>
-
-<tr>
-<td><img class="proj_thumb" src="images/publications/bioRxiv2022.png" width="350px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Phase separation of Myc differentially modulates the transcriptome </div>
-<div class="pub_author"> Yang, J.*, Chung, C.*, Koach, J., <b>Liu, H.</b>, ... , Shu, X.# </div>
-<div class="pub_journal"><i><b>bioRxiv</b>, 2022</i> [<a href="https://doi.org/10.1101/2022.06.28.498043">Preprint</a>]</div>
 </td>
 </tr>
 
