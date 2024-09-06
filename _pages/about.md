@@ -32,7 +32,7 @@ Education
     <div class="media-body">
         <div><span style="font-weight: bold">Ph.D. Student</span></div>
         <div>BMCB Program</div>
-        <div>Cornell University, 2024-2029</div>
+        <div>Cornell University, 2024-Present</div>
     </div>
 </div>
 
