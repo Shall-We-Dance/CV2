@@ -31,7 +31,7 @@ Education
     <span class="pull-left"><img src="images/cornell.svg" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">Ph.D. Student</span></div>
-        <div>BMCB Program</div>
+        <div>Department of Molecular Biology and Genetics</div>
         <div>Cornell University, 2024-Present</div>
     </div>
 </div>
