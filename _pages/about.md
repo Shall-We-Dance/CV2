@@ -199,7 +199,7 @@ Technical Skills
 
 Class A Operation Licence, CRAC
 
-**CQ, CQ, CQ, this is BD8DSO.**
+**CQ CQ Calling CQ. This is BD8DSO. Bravo-Delta-Eight-Delta-Sierra-Oscar.**
 
 <div style="text-align:center">
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5sgot2dxrbg&amp;m=0c&amp;c=ff0000&amp;cr1=ffffff&amp;f=calibri&amp;l=49&amp;s=200&amp;cw=ffffff&amp;cb=000000" async="async"></script>
