@@ -204,8 +204,3 @@ Technical Skills
 [![](https://img.shields.io/badge/Synology-000000?style=for-the-badge&logo=synology&logoColor=white)]()
 [![](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)]()
 
-### Amateur Radio
-
-Class A Operation Licence, CRAC
-
-**CQ CQ Calling CQ. This is BD8DSO. Bravo-Delta-Eight-Delta-Sierra-Oscar.**
